@@ -31,3 +31,8 @@ body {
     margin-top: 20px;
     font-size: 1.1em;
 }
+
+.titre {
+    font-size: 30px;
+    color: blue;
+}
