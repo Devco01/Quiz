@@ -64,7 +64,7 @@ function checkAnswer(choiceIndex) {
 }
 
 function showScore() {
-    questionE1.textContent = "Quizz terminé !";
+    questionE1.textContent = "Quiz terminé !";
     choicesE1.innerHTML = "";
     scoreE1.textContent = `Votre score final est ${score} / ${quizData.length}`;
 }
